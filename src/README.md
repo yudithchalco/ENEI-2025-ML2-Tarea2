@@ -1,7 +1,10 @@
 ## Machine Learning II
 
-**Estudiante:** Yudith Diana Chalco Cerezo  
-**Estudiante:** Sara Cristine Ocon Tovar
+**Estudiantes:** 
+Yudith Diana Chalco Cerezo  
+
+Sara Cristine Ocon Tovar
+
 **Institución:** Escuela Nacional de Estadística e Informática (ENEI – INEI)  
 **Curso:** Machine Learning II  
 **Entrega:** Parte I y Parte II  
