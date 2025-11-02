@@ -1,4 +1,4 @@
-# Informe de Prácticas – Machine Learning II
+Machine Learning II
 
 **Estudiante:** Yudith Diana Chalco Cerezo  
 **Estudiante:** Sara Cristine Ocon Tovar
