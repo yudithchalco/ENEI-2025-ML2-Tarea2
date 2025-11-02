@@ -1,4 +1,4 @@
-## Machine Learning II
+## MACHINE LEARNING II
 
 **Estudiantes:** 
 
